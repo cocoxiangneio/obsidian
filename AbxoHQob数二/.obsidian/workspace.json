@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "67dfd30c05c7e7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c867da1bcef124e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2ea37b22db2a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "武忠祥强化/01第一章.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "01第一章"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "389bf65635ab8183",
+    "type": "split",
+    "children": [
+      {
+        "id": "47fa86c1077cc71f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c645151c5ab9cf0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8aa4c17b958c0b21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#等价替换",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "aaaae90a5d97b129",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4e112288f2476d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "2692adf8da1dbca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61656f38ff9b3ca4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "37924fc72a7e35d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "武忠祥强化/02第二章.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "02第二章 的大纲"
+            }
+          },
+          {
+            "id": "96f026043d3e43a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "武忠祥强化/02第二章.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "02第二章 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": true,
+      "canvas:新建白板": false
+    }
+  },
+  "active": "8aa4c17b958c0b21",
+  "lastOpenFiles": [
+    "L.知识点/L.各类型间断点.jpg",
+    "专题/隐函数极值.md",
+    "专题/曲率圆与曲率半径.md",
+    "武忠祥强化/02第二章.md",
+    "武忠祥强化/01第一章.md",
+    "欧几里得月考/八月模考.md",
+    "未命名.base",
+    "P.pdf输出/八月模考.pdf",
+    "P.pdf输出/03第三章.pdf",
+    "P.pdf输出/02第二章.pdf",
+    "P.pdf输出/01第一章.pdf",
+    "武忠祥强化/03第三章.md",
+    "L.知识点/L.uv型.jpg",
+    "L.知识点/L.奇偶函数运算.png",
+    "L.知识点/L.拐点.jpg",
+    "P.题目截图/P.欧几里得8月t.6.png",
+    "P.题目截图/P.2.1.png",
+    "P.题目截图/P.3.12.png",
+    "P.题目截图/曲率圆与曲率半径.jpg",
+    "专题",
+    "欧几里得月考",
+    "近代史/豆包.md",
+    "Pasted image 20250806194859.png",
+    "未命名.canvas",
+    "P.pdf输出",
+    "P.题目截图",
+    "L.知识点",
+    "泰勒.md",
+    "导数定义.md",
+    "Pasted image 20250722144347.png",
+    "无穷（大 小）.md",
+    "1.md",
+    "未命名 2.md",
+    "未命名/未命名.md",
+    "2025-07-04.md",
+    "2025-07-03.md",
+    "等价无穷小.md",
+    "创建链接.md",
+    "欢迎.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tag-summary-plugin:summary-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
+  ]
+}

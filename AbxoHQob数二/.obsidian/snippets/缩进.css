@@ -1,0 +1,6 @@
+.cm-s-obsidian span.cm-inline-code {
+    color: var(--text-normal);
+    font-size: var(--font-text-size);
+    font-family: var(--font-text);
+    background: none!important;
+}

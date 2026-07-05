@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "64a822cfc523f2ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ca906c1ed008c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "162f5c65c0927725",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd50213bf59db508",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2aef5d1937d1758f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "39a763de04612e3a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "c2710040ed95755d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "9fad3cbb63b8929d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "4192f6f3f634ff93",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb542aea5252b28e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "未命名.base",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "15edfe6dc14da0ad",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "专题/隐函数极值.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "2aef5d1937d1758f",
+  "lastOpenFiles": [
+    "武忠祥强化/03第三章.md",
+    "未命名.base",
+    "P.pdf输出/八月模考.pdf",
+    "P.pdf输出/03第三章.pdf",
+    "武忠祥强化/02第二章.md",
+    "武忠祥强化/01第一章.md",
+    "欧几里得月考/八月模考.md",
+    "专题/隐函数极值.md",
+    "专题/曲率圆与曲率半径.md"
+  ]
+}

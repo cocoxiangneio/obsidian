@@ -1,0 +1,177 @@
+{
+  "Tabout": true,
+  "SelectionEnhance": true,
+  "IntrinsicSymbolPairs": true,
+  "BaseObEditEnhance": true,
+  "FW2HWEnhance": true,
+  "BetterCodeEdit": true,
+  "BetterBackspace": true,
+  "AutoFormat": true,
+  "ExcludeFiles": "",
+  "ChineseEnglishSpace": true,
+  "ChineseNumberSpace": true,
+  "EnglishNumberSpace": true,
+  "ChineseNoSpace": true,
+  "QuoteSpace": true,
+  "PunctuationSpace": true,
+  "AutoCapital": false,
+  "AutoCapitalMode": "typing",
+  "PunctuationSpaceMode": "typing",
+  "InlineCodeSpaceMode": 1,
+  "InlineFormulaSpaceMode": 1,
+  "InlineLinkSpaceMode": 1,
+  "InlineLinkSmartSpace": true,
+  "UserDefinedRegSwitch": true,
+  "UserDefinedRegExp": "{{.*?}}|++\n<.*?>|--\n\\[\\!.*?\\][-+]{0,1}|-+\n(file:///|https?://|ftp://|obsidian://|zotero://|www.)[^\\s（）《》。,，！？;；：“”‘’\\)\\(\\[\\]\\{\\}']+|--\n\n[a-zA-Z0-9_\\-.]+@[a-zA-Z0-9_\\-.]+|++\n(?<!#)#[\\u4e00-\\u9fa5\\w-\\/]+|++",
+  "debug": false,
+  "userSelRepRuleTrigger": [
+    "-",
+    "#",
+    "￥"
+  ],
+  "userSelRepRuleValue": [
+    {
+      "left": "~~",
+      "right": "~~"
+    },
+    {
+      "left": "#",
+      "right": " "
+    },
+    {
+      "left": "$",
+      "right": "$$"
+    }
+  ],
+  "userDeleteRulesStrList": [
+    [
+      "demo|",
+      "|"
+    ]
+  ],
+  "userConvertRulesStrList": [
+    [
+      ":)|",
+      "😀|"
+    ],
+    [
+      "gh|",
+      "\\sqrt[]{|}"
+    ],
+    [
+      "111|",
+      "$|$"
+    ],
+    [
+      "极限0|",
+      "\\lim\\limits_{x\\\\to0}|"
+    ],
+    [
+      "极限.|",
+      "\\lim\\limits_{x\\\\to\\infty}|"
+    ],
+    [
+      "--|",
+      "|\n\n---\n---\n"
+    ],
+    [
+      "lim0|",
+      "\\lim\\limits_{x\\\\to0}|"
+    ],
+    [
+      "lim.|",
+      "\\lim\\limits_{x\\\\to\\infty}|"
+    ],
+    [
+      "fr|",
+      "\\frac{|}{}"
+    ],
+    [
+      "f.|",
+      "f^{'}(|)"
+    ],
+    [
+      "》|",
+      ">|"
+    ],
+    [
+      "jdz|",
+      "|||"
+    ],
+    [
+      "fx|",
+      "f(|)"
+    ],
+    [
+      "==|",
+      "\\Longrightarrow|"
+    ],
+    [
+      "￥|",
+      "$|"
+    ],
+    [
+      "begin|",
+      "\\begin{cases} |\\end{cases}"
+    ],
+    [
+      "var|",
+      "\\varphi|"
+    ],
+    [
+      "^|",
+      "^{|}"
+    ],
+    [
+      "slh|",
+      "……|"
+    ],
+    [
+      "...|",
+      "\\cdots|"
+    ],
+    [
+      "xi|",
+      "\\xi|"
+    ],
+    [
+      "F.|",
+      "F^{'}(|)"
+    ],
+    [
+      "Fx|",
+      "f(|)"
+    ],
+    [
+      "int.|",
+      "\\int_{|}^{}\\,dx"
+    ],
+    [
+      "pi|",
+      "\\pi|"
+    ],
+    [
+      "@|",
+      "^{2}|"
+    ],
+    [
+      "###|",
+      "### 第|题"
+    ],
+    [
+      "\\p|",
+      "\\partial |"
+    ]
+  ],
+  "userSelRuleSettingsOpen": true,
+  "userDelRuleSettingsOpen": false,
+  "userCvtRuleSettingsOpen": true,
+  "StrictModeEnter": false,
+  "StrictLineMode": "enter_twice",
+  "EnhanceModA": false,
+  "TryFixChineseIM": true,
+  "PuncRectify": false,
+  "FixMacOSContextMenu": false,
+  "TryFixMSIME": false,
+  "CollapsePersistentEnter": false
+}
