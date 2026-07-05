@@ -1,0 +1,108 @@
+# 第一部分：原题（仅题目）
+## 17. 不等式组原题
+解不等式组：
+$$
+\begin{cases}
+x - 3 \le 2x \\
+\dfrac{3x}{2} - 1 \le \dfrac{2x+2}{3}
+\end{cases}
+$$
+并写出它的所有非负整数解。
+
+## 20. 同解方程组原题
+已知关于 $x,y$ 的二元一次方程组
+$$
+\begin{cases}
+ax - y = -b \\
+3x - y = 0
+\end{cases}
+$$
+与方程组
+$$
+\begin{cases}
+x - ay = b \\
+2x - y = 1
+\end{cases}
+$$
+有相同的解。
+(1) 求这两个方程组的相同解；
+(2) 求 $a + 2b$ 的值。
+
+## 10道练习题（纯题目，分两类）
+### 类型1：一元一次不等式组（5道）
+题1：解不等式组 $\begin{cases}2x+1>x-2\\\dfrac{x+4}{2}-\dfrac{3x-1}{3}\ge1\end{cases}$，写出所有负整数解。
+题2：解不等式组 $\begin{cases}3(x-1)\le5x+1\\\dfrac{x-2}{4}<\dfrac{2x+1}{3}-1\end{cases}$，求非负整数解。
+题3：解不等式组 $\begin{cases}5-2x\ge3\\\dfrac{2x-1}{3}<\dfrac{x+1}{2}\end{cases}$，写出全部整数解。
+题4：解不等式组 $\begin{cases}4x-3>x\\2-\dfrac{x}{2}\ge\dfrac{x+1}{4}\end{cases}$，求正整数解。
+题5：解不等式组 $\begin{cases}x+5\ge3(x+1)\\\dfrac{2x-1}{5}<\dfrac{x}{2}\end{cases}$，写出所有整数解。
+
+### 类型2：同解二元一次方程组（5道）
+题6：已知 $\begin{cases}mx+y=n\\2x-y=1\end{cases}$ 与 $\begin{cases}x+ny=m\\3x+y=5\end{cases}$ 解相同，求 $m-n$。
+题7：方程组 $\begin{cases}ax+2y=b\\x-y=3\end{cases}$ 与 $\begin{cases}2x+by=a\\3x+y=7\end{cases}$ 解相同，求 $2a+b$。
+题8：$\begin{cases}3x-ky=4\\x+2y=1\end{cases}$ 与 $\begin{cases}x+y=-1\\mx+y=3\end{cases}$ 解相同，求 $k+m$。
+题9：方程组 $\begin{cases}2x+ay=5\\x-y=2\end{cases}$ 和 $\begin{cases}bx+3y=2\\3x+y=8\end{cases}$ 有相同解，求 $a+b$。
+题10：$\begin{cases}px-y=q\\4x+3y=1\end{cases}$ 与 $\begin{cases}x-qy=p\\2x-y=3\end{cases}$ 解相同，求 $p-3q$。
+
+---
+
+# 第二部分：全部答案与详细解析
+## 一、原题解答
+### 17题解答
+1. 解 $x-3 \le 2x$，得 $x \ge -3$
+2. 解 $\dfrac{3x}{2}-1 \le \dfrac{2x+2}{3}$，两边同乘6去分母：
+$9x-6 \le 4x+4 \implies 5x \le 10 \implies x \le 2$
+3. 不等式组解集：$\boldsymbol{-3 \le x \le 2}$
+4. 非负整数解：$\boldsymbol{0,1,2}$
+
+### 20题解答
+(1) 联立无参数方程 $\begin{cases}3x-y=0\\2x-y=1\end{cases}$，两式相减得 $x=-1$，代入得 $y=-3$
+相同解：$\boldsymbol{\begin{cases}x=-1\\y=-3\end{cases}}$
+
+(2) 将 $x=-1,y=-3$ 代入含参方程组：
+$$
+\begin{cases}-a+3=-b\\-1+3a=b\end{cases} \implies
+\begin{cases}a-b=3\\3a-b=1\end{cases}
+$$
+两式相减得 $2a=-2 \implies a=-1$，代入得 $b=-4$
+$a+2b=-1+2\times(-4)=\boldsymbol{-9}$
+
+---
+
+## 二、10道练习题答案解析
+### 不等式组5道
+#### 题1
+解集：$-3<x\le\dfrac{8}{3}$；负整数解：$\boldsymbol{-2,-1}$
+解析：去分母时每一项乘6，系数为负不等号反向。
+
+#### 题2
+解集：$x>\dfrac{2}{5}$；非负整数解：$\boldsymbol{0,1,2,3,\dots}$（全体自然数）
+解析：除以负数必须改变不等号方向，非负整数包含0。
+
+#### 题3
+解集：$x\le1$；整数解：$\boldsymbol{\dots,-2,-1,0,1}$
+
+#### 题4
+解集：$1<x\le\dfrac{7}{3}$；正整数解：$\boldsymbol{2}$
+
+#### 题5
+解集：$-2<x\le1$；整数解：$\boldsymbol{-1,0,1}$
+
+---
+
+### 同解方程组5道
+#### 题6
+公共解：$x=\dfrac{6}{5},\ y=\dfrac{7}{5}$；解得 $m=-1,\ n=\dfrac{1}{5}$；$m-n=\boldsymbol{-\dfrac{6}{5}}$
+
+#### 题7
+公共解：$x=\dfrac{5}{2},\ y=-\dfrac{1}{2}$；解得 $a=\dfrac{4}{3},\ b=\dfrac{7}{3}$；$2a+b=\boldsymbol{5}$
+
+#### 题8
+公共解：$x=-3,\ y=2$；解得 $k=-\dfrac{13}{2},\ m=-\dfrac{1}{3}$；$k+m=\boldsymbol{-\dfrac{41}{6}}$
+
+#### 题9
+公共解：$x=\dfrac{5}{2},\ y=\dfrac{1}{2}$；解得 $a=0,\ b=\dfrac{1}{5}$；$a+b=\boldsymbol{\dfrac{1}{5}}$
+
+#### 题10
+公共解：$x=1,\ y=-1$；代入参数方程得矛盾式 $2=0$，**无满足条件的$p,q$，此题无解**
+
+---
